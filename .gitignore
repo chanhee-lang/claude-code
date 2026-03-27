@@ -1,6 +1,8 @@
 # 민감한 정보
 *.credentials.json
 .credentials.json
+.env
+.env.*
 
 # 캐시/임시 파일
 cache/
